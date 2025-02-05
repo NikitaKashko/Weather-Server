@@ -1,2 +1,7 @@
 # Weather-Server
-FastAPI server for accepting weather info from open-meteo.com
+FastAPI сервер для получения и обработки информации о погоде с сервиса open-meteo.com
+
+Выполнил: Кашко Никита
+Контакты: +79059188048, kashkonikev@gmail.com, @ya_ne_prodamsya_v_rabstvo (Telegram)
+
+Эндпоинты:
